@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\DominoPiling\DominoPiling\bin\Debug\net8.0\DominoPiling.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\DominoPiling\DominoPiling\bin\Debug\net8.0\DominoPiling.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\DominoPiling\DominoPiling\bin\Debug\net8.0\DominoPiling.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\DominoPiling\DominoPiling\bin\Debug\net8.0\DominoPiling.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\DominoPiling\DominoPiling\bin\Debug\net8.0\DominoPiling.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\DominoPiling\DominoPiling\obj\Debug\net8.0\DominoPiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\DominoPiling\DominoPiling\obj\Debug\net8.0\DominoPiling.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\DominoPiling\DominoPiling\obj\Debug\net8.0\DominoPiling.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\DominoPiling\DominoPiling\obj\Debug\net8.0\DominoPiling.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\DominoPiling\DominoPiling\obj\Debug\net8.0\DominoPiling.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\DominoPiling\DominoPiling\obj\Debug\net8.0\refint\DominoPiling.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\DominoPiling\DominoPiling\obj\Debug\net8.0\DominoPiling.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\DominoPiling\DominoPiling\obj\Debug\net8.0\DominoPiling.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\DominoPiling\DominoPiling\obj\Debug\net8.0\ref\DominoPiling.dll
